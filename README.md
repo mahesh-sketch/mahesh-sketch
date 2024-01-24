@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-sketch" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter and Web Development**
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Java, ReactJs, Nodejs, MongoDb, ExpressJs, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahesh-sketch](https://github.com/mahesh-sketch)
 
-- 💬 Ask me about **Flutter, Java, DBMS, Networking, Operating System**
+- 💬 Ask me about **Flutter, Java, ReactJs, Nodejs, MongoDb, ExpressJs, Javascript**
 
 - 📫 How to reach me **maheshdash84821@gmail.com**
 
